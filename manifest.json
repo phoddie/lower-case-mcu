@@ -1,0 +1,6 @@
+{
+	"modules": {
+		"lower-case": "./lower-case-mcu"
+	},
+	"preload": "lower-case"
+}

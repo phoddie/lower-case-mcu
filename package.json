@@ -1,0 +1,12 @@
+{
+	"name": "@moddable-node-red/example-lower-case",
+	"version": "1.0.0",
+	"description": "example",
+	"license": "UNLICENSED",
+	"node-red" : {
+		"nodes": {
+			"lower-case": "lower-case.js"
+		}
+	}
+}
+ 
